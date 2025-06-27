@@ -142,4 +142,6 @@ SELECT shift,
 FROM hourly_sale
 GROUP BY shift;
 
+Conclusion
+This project provides a foundational approach to retail sales data analysis using SQL. It includes database setup, data cleaning, exploratory queries, and answering relevant business questions that offer insights into sales trends, customer demographics, and product category performance
 
